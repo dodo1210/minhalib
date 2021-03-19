@@ -1,10 +1,10 @@
 from setuptools import setup
-setup(name='mypackage',
+setup(name='minhalib',
         version='0.1',
         description='Testing installation of Package',
         url='#',
         author='auth',
-        author_email='douglas@e4b.app',
+        author_email='ds417042@gmail.com',
         license='MIT',
-        packages=['mypackage'],
+        packages=['minhalib'],
         zip_safe=False)
