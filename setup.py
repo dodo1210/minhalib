@@ -6,5 +6,5 @@ setup(name='minhalib',
         author='auth',
         author_email='ds417042@gmail.com',
         license='MIT',
-        package_dir={"":""},
+        package_dir={"minhalib":""},
         zip_safe=False)
